@@ -1,0 +1,5 @@
+com\kushals\controller\ViewingActivityController.class
+com\kushals\application\AppLauncher.class
+com\kushals\service\AppService.class
+com\kushals\application\ElasticSearchConfig.class
+com\kushals\controller\ContentController.class
