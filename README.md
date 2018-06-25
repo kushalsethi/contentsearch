@@ -20,12 +20,12 @@ Configure this application if elasticsearch is running on different server or po
 
 Start AppLauncher from contentsearch/src/main/java/com/kushals/application/AppLauncher.java </br>
 
- 	 `java AppLauncher` </br>
+ 	 `java AppLauncher`
   
   This will start spring boot application listening to localhost 8080 port. </br>
   
   <b>Mappings for the documents </b> </br>
-  Default mapping can be foud at src/main/resources/template directory. </br>
+  Default mapping can be found at src/main/resources/template directory. </br>
   
   
   
