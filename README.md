@@ -26,7 +26,7 @@ Start AppLauncher from contentsearch/src/main/java/com/kushals/application/AppLa
   
   <b>Mappings for the documents </b> </br>
   Default mapping can be found at src/main/resources/template directory. </br>
-  
+  There are two mappings for ContentLibrary and ViewingActivity </br>
   
   
  <b> REST APIs:</b> </br>
