@@ -1,5 +1,9 @@
 # contentsearch
 
+A REST Client that helps you storing the contents and viewing activity of Users and getting contents based on tags provided in request.
+Elasticsearch is used to search through records.</br>
+
+
 Prerequisite </br>
   You need to have Elasticsearch-6.2.1 (https://www.elastic.co/downloads/past-releases) installed/extracted on your machine. </br>
    
@@ -19,6 +23,11 @@ Start AppLauncher from contentsearch/src/main/java/com/kushals/application/AppLa
  	 `java AppLauncher` </br>
   
   This will start spring boot application listening to localhost 8080 port. </br>
+  
+  <b>Mappings for the documents </b> </br>
+  Default mapping can be foud at src/main/resources/template directory. </br>
+  
+  
   
  <b> REST APIs:</b> </br>
   
