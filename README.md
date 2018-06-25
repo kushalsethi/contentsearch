@@ -1,6 +1,6 @@
 # contentsearch
 
-A REST Client that helps you storing the contents and viewing activity of Users and getting contents based on tags provided in request.
+A REST API that helps you storing the contents and viewing activity of Users and getting contents based on tags provided in request.
 Elasticsearch is used to search through records.</br>
 
 
